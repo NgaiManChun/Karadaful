@@ -1,0 +1,5 @@
+name,artist,bpm,length(second),basic_view_second,audio_file,cover_file,tempo_groups_file
+ひまわりの約束,秦　基博,79,116,3.037974684,asset\ひまわりの約束.wav,asset\ひまわりの約束.bmp,asset\himawari_tempo.csv
+WISH,PrimaStella,80,108,3,asset\WISH.wav,asset\wish.bmp,asset\wish_tempo.csv
+ギターと孤独と蒼い惑星,結束バンド,193,89,1.5,asset\ギターと孤独と蒼い惑星.wav,asset\boochi.bmp,asset\guitar_kodoku_tempo.csv
+God knows...,平野　綾,150,187,1.6,asset\God knows....wav,asset\god knows.bmp,asset\god_knows_tempo.csv

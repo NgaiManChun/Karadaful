@@ -1,0 +1,28 @@
+#ifndef _INPUT_H
+#define _INPUT_H
+
+enum INPUT_TYPE {
+	INPUT_TYPE_F1,
+	INPUT_TYPE_F2,
+	INPUT_TYPE_F3,
+	INPUT_TYPE_F4,
+	INPUT_TYPE_F5,
+	INPUT_TYPE_F6,
+	INPUT_TYPE_ENTER,
+	INPUT_TYPE_UP,
+	INPUT_TYPE_DOWN,
+	INPUT_TYPE_LEFT,
+	INPUT_TYPE_RIGHT,
+	INPUT_TYPE_ESC,
+	INPUT_TYPE_COUNT
+};
+
+void recordInputs();
+
+bool isInputHold(INPUT_TYPE type);
+
+bool isInputDown(INPUT_TYPE type);
+
+bool isInputUp(INPUT_TYPE type);
+
+#endif
