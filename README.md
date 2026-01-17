@@ -53,3 +53,8 @@ https://youtu.be/VMUpB2KFo5g
 「レイアウト」タブ、「ウィンドウサイズ」→「幅80、高さ25」
 
 ![スクリーンショット 2025-05-01 164658](https://github.com/user-attachments/assets/23016c03-0b61-4b81-8b70-9f582d6565b8)
+
+## 使用した素材
+BGM by MusMus https://musmus.main.jp/
+
+※ステージ楽曲はYoutubeにのみ使用しており、作権者は YouTube でのコンテンツの使用を許可しています。ソース及び実行ファイルに含まれる音源ファイルはすべてダミーです。
