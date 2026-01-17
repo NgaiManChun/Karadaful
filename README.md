@@ -56,6 +56,7 @@ https://youtu.be/VMUpB2KFo5g
 
 ## 使用した素材
 SE by 効果音ラボ https://soundeffect-lab.info/
+
 BGM by MusMus https://musmus.main.jp/
 
 ※ステージ楽曲はYoutubeにのみ使用しており、作権者は YouTube でのコンテンツの使用を許可しています。ソース及び実行ファイルに含まれる音源ファイルはすべてダミーです。
